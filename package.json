@@ -1,0 +1,14 @@
+{
+  "name": "applook",
+  "version": "1.0.0",
+  "description": "interface Desktop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anibal C",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.5"
+  }
+}
