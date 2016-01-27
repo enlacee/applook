@@ -5,7 +5,7 @@ This is a project made by Electron: aplicacion multiple platform
 
 ## Create project by npm
 
-```
+```javascript
     npm init
     npm seach electron // other plugin
     npm install electron-prebuilt --save
@@ -13,7 +13,7 @@ This is a project made by Electron: aplicacion multiple platform
 
 Execute app
     
-```
+```shell
 	electron .
 ```    
 
