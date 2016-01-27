@@ -20,4 +20,4 @@ Execute app
 
 ### image ref
 
-![screenshot]('anibal.dev/screenshot.png')
+![screenshot]('/anibal.dev/screenshot.png')
